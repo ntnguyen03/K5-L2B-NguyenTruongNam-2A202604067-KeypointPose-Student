@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604067",
+ "ten": "NguyenTruongNam",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "nam17030404",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000196283.jpg",
+  "000000205650.jpg",
+  "000000241837.jpg",
+  "000000558066.jpg",
+  "000000056651.jpg",
+  "000000179201.jpg",
+  "000000311497.jpg",
+  "000000043500.jpg",
+  "000000307757.jpg",
+  "000000100510.jpg",
+  "000000542160.jpg"
+ ],
+ "faces": [
+  "face_147624.jpg",
+  "face_204787.jpg",
+  "face_359139.jpg",
+  "face_416730.jpg",
+  "face_449454.jpg",
+  "face_345145.jpg",
+  "face_294580.jpg",
+  "face_483667.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-NguyenTruongNam"
+  },
+  "faces": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-NguyenTruongNam"
+  }
+ }
+}
